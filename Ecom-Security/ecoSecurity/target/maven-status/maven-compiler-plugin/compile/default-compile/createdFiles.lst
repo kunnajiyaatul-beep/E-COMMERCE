@@ -1,0 +1,3 @@
+com\SpringEcomSec\ecoSecurity\service\JwtService.class
+com\SpringEcomSec\ecoSecurity\Config\MySecurity.class
+com\SpringEcomSec\ecoSecurity\Config\JwtFilter.class
